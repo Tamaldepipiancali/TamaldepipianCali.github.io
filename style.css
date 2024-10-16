@@ -1,0 +1,131 @@
+.dias{
+    font-size: 40pt;
+    font-family:Oleo Script;
+    color: rgb(247, 161, 13); 
+    
+}
+h1 {
+  color: rgb(247, 161, 13); 
+  font-size: 80pt;
+  font-family: Oleo Script;
+  text-align: center;
+  text-shadow: 
+                3px 3px 0px #2a9c00,
+                -1px -1px 0px #2a9c00,
+                1px -1px 0px #2a9c00,
+                -1px 1px 0px #2a9c00;
+
+}
+h2 {
+    color: rgb(247, 160, 13);
+    font-size: 60pt;
+    font-family: Oleo Script;
+  text-align: center;
+  text-shadow: 
+                3px 3px 0px #2a9c00,
+                -1px -1px 0px #2a9c00,
+                1px -1px 0px #2a9c00,
+                -1px 1px 0px #2a9c00;
+}
+p {
+    font-size: 18pt;
+}
+
+.carrusel{
+    margin: 100px 0 0 200px;
+    width: 70%;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.carrusel img{
+    width: 20%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 360px;
+    border: 6px solid #ff9f04;
+    transition: all ease-in-out 0.5s;
+}
+.carrusel img:hover{
+width: 60%;
+}
+.contenedor1{
+text-align: center;
+}
+.primera{
+    width: 350px;
+    height: 350px;
+}
+.contenedor2{
+    text-align: center;
+}
+
+.segunda{
+width: 350px;
+height: 350px;
+}
+.contenedor3{
+    text-align: center;
+}
+.tercera{
+    width: 350px;
+    height: 350px;
+}
+.containers1{
+    display: flex;
+    gap: 40px;
+    margin: 10px;
+    text-align: center;
+}
+.contenedor4{
+    text-align: center;
+    }
+    .cuarta{
+        width: 350px;
+        height: 350px;
+    }
+    .contenedor5{
+        text-align: center;
+    }
+    
+    .quinta{
+    width: 350px;
+    height: 350px;
+    }
+    .containers2{
+        display: flex;
+        gap: 25px;
+        margin: 10px;
+        margin-left: 170px;
+        text-align: center;
+    }
+
+.textos {
+    display: flex; 
+    text-align: center;
+}
+.imagenes2 {
+    display: flex; 
+    margin: 20px; 
+    gap: 70px
+    
+   
+
+
+}
+.textos2 {
+    display: flex; 
+    text-align: center;
+
+}
+.quees{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 60px;
+}
+
+.video{
+    text-align: center;
+
+}
